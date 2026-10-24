@@ -1,0 +1,6 @@
+:root {
+  --gold: #c4a46a;
+  --cream: #faf7f2;
+  --ink: #2a1a14;
+}
+body { margin: 0; font-family: system-ui, sans-serif; background: var(--cream); color: var(--ink); }
